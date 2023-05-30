@@ -1,0 +1,11 @@
+/*General Essential*/
+
+* {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    user-select: none;
+}
+
