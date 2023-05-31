@@ -13,9 +13,40 @@ ul {
     list-style: none;
 }
 
+/*Sections*/
+
+#navbar {
+
+}
+
+#top {
+
+}
+
+#mid {
+
+}
+
+#bot {
+
+}
+
+#last {
+
+}
+
+#footer {
+    
+}
+
+
+
+
 
 .midcontainer img {
     width: 500px;
     height: auto;
-    bor
+    border: 5px solid #19282F;
+    border-radius: 20px;
+    border-style: ridge;
 }
