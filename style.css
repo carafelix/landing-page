@@ -198,9 +198,9 @@ body {
 /* ----------------------------------------------------- */
 
 .fondobills {
-    padding: 6rem 2rem;
+    padding: 8rem;
     background-image: url("./images/strange/maobillss.png");
-    background-size: 101%;
+    background-size: 101%;   /*I know this make the site a little less responsive since it has to resize while dragging the window. I found the effect quite disturbing or annoying but at the same time its cool. I could do it with a static value of course*/
 }
 
 #last {
