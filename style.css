@@ -78,6 +78,7 @@ body {
 
 .links:hover {
     background-color: hsl(200, 50%, 17%);
+    color: hsl(220, 45%, 85%);
 }
 
 .logodiv {
