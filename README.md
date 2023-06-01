@@ -1,8 +1,8 @@
 # OdinLanding
 
-To-do: 
+Please take it with a grain of salt. I was having too much fun.
 
-Draggable and inertia based containers for images and single letter fisics
+To-do: - Draggable and inertia based containers for images and single letter fisics
 
 
 Credits for the imgs:
@@ -13,6 +13,9 @@ Photo by <a href="https://unsplash.com/pt-br/@lianbx?utm_source=unsplash&utm_med
   <a href="https://www.flaticon.com/free-icons/hammer-and-sickle" title="hammer and sickle icons">Hammer and sickle icons created by Freepik - Flaticon</a>
   <a href="https://www.flaticon.com/free-icons/communist" title="communist icons">Communist icons created by Freepik - Flaticon</a>
   Photo by <a href="https://unsplash.com/@weareambitious?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ambitious Studio* - Rick Barrett</a> on <a href="https://unsplash.com/photos/2ycKCSgj4L0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  Photo by <a href="https://unsplash.com/@thoughtcatalog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Thought Catalog</a> on <a href="https://unsplash.com/photos/gbQ3EsFSdG8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  Photo by <a href="https://unsplash.com/@eprouzet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Eric Prouzet</a> on <a href="https://unsplash.com/photos/UipokEnGOyE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
   
 
 The images displayed in this collection are not owned or copyrighted by me. They belong to their respective creators and rights holders. If you believe your copyright has been infringed, please contact me with proof of ownership and I will take them down.
