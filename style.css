@@ -28,6 +28,8 @@ ul {
 body {
     margin: 0;
     min-height: 100vh;
+    background-image: url("./images/strange/maobills.jpg");
+    background-size: 100%;
 }
 
 .darkblue {
@@ -115,6 +117,7 @@ body {
     padding: 2rem;
     gap: 1rem;
     scroll-margin-top: 100px;
+    background-color: #f9faf8;
 }
 
 #mid h2 {
@@ -191,6 +194,7 @@ body {
 #last {
     justify-content: center;
     margin: 6rem 2rem;
+    opacity: 96.5%;
 }
 
 #last .flex {
