@@ -103,6 +103,12 @@ body {
 
 #welcome {
     width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+#welcome .signup {
+    width: 140px;
 }
 
 #welcome h1 {
@@ -254,7 +260,21 @@ body {
 
 /* ----------------------------------------------------- */
 
+@media only screen and (max-width:800px) {
+        .fondobills {
+            padding: 8rem 1rem;
+        }
 
+        .linksul {
+            gap: 5px;
+        }
+
+        #welcome {
+            align-items: center;
+        }
+
+        
+}
 
 
 
