@@ -51,6 +51,7 @@ body {
 /*Sections*/
 
 #header {
+    position: sticky;
     padding: 8px;
     color: #e5e7eb;
     justify-content: space-around;
@@ -68,7 +69,7 @@ body {
 }
 
 .links:hover {
-    background-color: hsla(185, 91%, 17%, 0.656);
+    background-color: hsl(200, 50%, 17%);
 }
 
 .logodiv {
@@ -84,7 +85,9 @@ body {
 
 #top {
     justify-content: space-evenly;
+    align-items: center;
     padding: 4rem;
+    padding-bottom: 6rem;
 }
 
 #welcome {
@@ -109,34 +112,42 @@ body {
     flex-direction: column;
     padding: 2rem;
     gap: 1rem;
-    
 }
 
 #mid h2 {
-    margin: 2rem;
+    margin-top: 0;
+    margin-bottom: 40px;
     color: #1f2937;
     background-color: none;
     font-weight: bolder;
     font-size: 36px;
     align-self: center;
-    justify-self: start;
+    padding: 1rem;
 }
 
 .midimages {
-    flex:1;
-    margin: 0px 50px;
     justify-content: center;
     gap: 5.8rem;
-    
+    margin-bottom: 10px;
+}
+
+.midcontainer {
+    flex-basis: 0;
+    text-align: center;
+}
+
+.midcontainer p {
+    color: #1f2937;
+    font-size: larger;
 }
 
 .midcontainer img {
     width: 225px;
     height: auto;
-    border: 5px solid #19282F;
+    border: 3px solid #19282F;
     border-radius: 20px;
-    border-style: solid;
 }
+
 
 /* ----------------------------------------------------- */
 
@@ -166,22 +177,34 @@ body {
     align-self: flex-end;
     padding: 1rem;
     margin-top: 0;
+    font-size: 1.8rem;
+    font-weight: 1000;
 }
 
 /* ----------------------------------------------------- */
 
 
 #last {
-    justify-content: space-around;
-    margin: 7rem 15rem;
+    justify-content: center;
+    margin: 6rem 2rem;
+}
+
+#last .flex {
+    flex-basis: 100ch;
     padding: 2rem;
-    background-color: #3882f6;
-    color:#e5e7eb;    
-    border-radius: 10px;    
+    background-color: #3882f6;  
+    border-radius: 10px;
+    font-size: large;
+    justify-content: space-around;
+    align-items: center;
+    color:#e5e7eb;  
 }
 
 #last .signup {
-    border: 3px solid #f9faf8;
+    border: 2px solid #f9faf8;
+    padding: 10px;
+    margin: 10px;
+    flex-shrink: 0;
 }
 
 /* ----------------------------------------------------- */
