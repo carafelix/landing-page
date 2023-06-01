@@ -114,6 +114,7 @@ body {
     flex-direction: column;
     padding: 2rem;
     gap: 1rem;
+    scroll-margin-top: 100px;
 }
 
 #mid h2 {
