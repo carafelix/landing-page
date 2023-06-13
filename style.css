@@ -176,7 +176,7 @@ body {
 .midcontainer img {
     width: 225px;
     height: auto;
-    border: 3px solid #19282F;
+    border: 0px solid #19282F;
     border-radius: 20px;
     box-shadow: 2px 2px 5px #19282F;
 }
