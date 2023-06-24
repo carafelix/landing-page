@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Landing Page — Odin </h1>
 <p>Please take it with a grain of salt. I was having <em>too much fun.</em></p>
-<img src="./images/preview.png" width="750">
+<img src="./preview.png" width="750">
 <p><em></em></p>
 </div>
 
