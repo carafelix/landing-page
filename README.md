@@ -15,7 +15,7 @@ I'm rather someone with a lot of original and creative ideas, so for me the top 
 
 - ✅ Faithful to the original design template
 - ✅ Decent Mobile responsiveness from flexbox & media queries
-- ✅ Sticky Navbar with seamless gradient
+- ✅ Sticky Navbar with seamless gradient and hover color change
 - ✅ Navbar #links aligns with containers
 - ✅ Fix background & fix section background
 - ✅ Pleasently looking box-shadows & regions opacity
