@@ -4,10 +4,11 @@
 <img src="./preview.png" width="750">
 <p><em></em></p>
 </div>
-<br>
+<br/>
+
 ## Introduction
 
-This is my second project overall, also coming from the [Odin Project Curriculum](https://www.theodinproject.com/lessons/foundations-landing-page).
+This is my second project overall, also coming from the [Odin Project Curriculum](https://www.theodinproject.com/lessons/foundations-landing-page). <br/>
 I'm rather someone with a lot of original and creative ideas, so for me the top goal on this proyect was to stick to the design template. See: [reference](./reference-images) 
 
 ## Self impose Goals
